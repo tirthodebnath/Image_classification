@@ -1,1 +1,1 @@
-https://buffml.com/multi-class-image-classification-flask-app-complete-project/
+This is a image classification project which will classify the images.
